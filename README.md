@@ -7,3 +7,5 @@ Type the following commands in console before executing the script:
 4. pip install mouse
 5. pip install webbrowser
 6. pip install selenium
+
+Demo Video: https://cutt.ly/sidmeet
